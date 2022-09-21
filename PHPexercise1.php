@@ -6,13 +6,19 @@
     	<title>PHP exercise 1</title>
     </head>
 	<body>
+		<h1>PHP Exercise 1</h1>
 	<?php
-	echo "Twinkle, Twinkle little start! </br>";
-    
-    $twinkle = "Twinkle";
-    $star = "Star";
-    
-    echo " $twinkle, $twinkle little $star! </br> ";
-	?>
+ 	echo "Twinkle, Twinkle little star. <br/>";
+ 	$twinkle="Twinkle"; 
+	$star="star"; 
+ 
+
+	echo "$twinkle, $twinkle little $star.<br/>";
+
+	$twinkle="Spark"; 
+	$star="diamond"; 
+	echo "$twinkle, $twinkle little $star.";
+
+?>
 	</body>
 </html>

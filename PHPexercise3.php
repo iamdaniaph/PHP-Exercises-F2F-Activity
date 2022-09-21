@@ -7,8 +7,10 @@
     </head>
 <body>
 
-<body>
-	        <?php
+	<h1>PHP Exercise 3</h1>
+
+
+	     <?php
 	        
 	        $val=8;
 	        
@@ -32,14 +34,14 @@
 	        
 	        $val ++;
 	        
-	        echo "Increment by one. Value is now $val.</br>";
+	        echo "Increment value by one. Value is now $val.</br>";
 	        
 	        $val --;
 	        
-	        echo "Decrement by one. Value is now $val.</br>";
+	        echo "Decrement value by one. Value is now $val.</br>";
 	        
 	        
-	        ?>
+	     ?>
 
 </body>
 </html>

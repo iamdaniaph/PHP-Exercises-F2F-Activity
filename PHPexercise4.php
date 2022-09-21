@@ -7,6 +7,8 @@
     </head>
 <body>
 
+  <h1>PHP Exercise 4</h1>
+
   <?php
   	$name='Harry';
     $age=28;

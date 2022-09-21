@@ -6,6 +6,7 @@
     	<title>PHP exercise 2</title>
     </head>
 	<body>
+			<h1>PHP Exercise 2</h1>
 	<?php
 	
 		    $x=10;
